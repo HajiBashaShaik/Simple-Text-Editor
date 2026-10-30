@@ -17,12 +17,8 @@ A simple text editor application developed using Python and Tkinter. It provides
 ## How to Run
 
 1. Install Python on your system.
-2. Clone this repository:
-   ```bash
-   git clone <your-repository-url>
-   ```
-3. Open the project folder.
-4. Run the Python file:
+2. Open the project folder.
+3. Run the Python file:
    ```bash
    python main.py
    ```
